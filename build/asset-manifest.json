@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vignesh222002/React_Demo.git/static/css/main.7040e9dd.css",
+    "main.js": "/vignesh222002/React_Demo.git/static/js/main.c36c7187.js",
+    "static/js/787.d84aacb0.chunk.js": "/vignesh222002/React_Demo.git/static/js/787.d84aacb0.chunk.js",
+    "index.html": "/vignesh222002/React_Demo.git/index.html",
+    "main.7040e9dd.css.map": "/vignesh222002/React_Demo.git/static/css/main.7040e9dd.css.map",
+    "main.c36c7187.js.map": "/vignesh222002/React_Demo.git/static/js/main.c36c7187.js.map",
+    "787.d84aacb0.chunk.js.map": "/vignesh222002/React_Demo.git/static/js/787.d84aacb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7040e9dd.css",
+    "static/js/main.c36c7187.js"
+  ]
+}
